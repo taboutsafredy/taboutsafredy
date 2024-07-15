@@ -1,6 +1,6 @@
 ## Hello there ! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-It's [**Fredy**](https://github.com/istfredy), a SWE student from Yaounde, Cameroon.
+It's [**Fredy**](https://github.com/istfredy), a SWE student from Space ;)
 
 I'm primarily interested in **full-stack development** and currently working on my personal project [@cutIt](#), a full-stack link shortening application that I'm building with TypeScript, React, and NodeJS.
 
