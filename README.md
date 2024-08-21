@@ -9,4 +9,5 @@ I enjoy using [@Obsidian](https://obsidian.md/), and I've also contributed to im
 Outside of my studies and personal work, I spend my time meeting people and writing about what I'm learning in my SWE journey on LinkedIn. I also enjoy watching anime, with my favorite being **One Piece**.
 
 ## Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/taboutsafredy)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-230E76A8.svg?style=for-the-badge&logo=telegram&logoColor=white&color=blue">
+](https://t.me/itsfredy)
